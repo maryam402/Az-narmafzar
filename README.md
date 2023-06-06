@@ -57,9 +57,9 @@ For this project, we will be using the NodeMCU ESP8266 board. Here is the schema
 
 To connect the components, follow these steps:
 
-1.Connect the longest leg of the lamp to the D1 port on the NodeMCU board. This connection is described in the code and will enable lamp control.
+1. Connect the longest leg of the lamp to the D1 port on the NodeMCU board. This connection is described in the code and will enable lamp control.
 
-2.Connect the shortest leg of the lamp to the GND (ground) pin on the NodeMCU board. This establishes the necessary electrical ground connection.
+2. Connect the shortest leg of the lamp to the GND (ground) pin on the NodeMCU board. This establishes the necessary electrical ground connection.
 
 Ensure that the connections are secure and properly aligned. Taking care of the hardware setup is crucial for the successful functioning of the project.
 
