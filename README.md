@@ -49,7 +49,7 @@ The code in Adafruit IO folder contains two functions:
 
  For a more comprehensive understanding and to view the complete code, please refer to the Adafruit IO folder and IFTTT folder.
 
-#Hardware Setup
+# Hardware Setup
 
 For this project, we will be using the NodeMCU ESP8266 board. Here is the schematic of the project:
 
