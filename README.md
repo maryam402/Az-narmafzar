@@ -53,7 +53,7 @@ The code in Adafruit IO folder contains two functions:
 
 For this project, we will be using the NodeMCU ESP8266 board. Here is the schematic of the project:
 
-![schematic](C:\Users\mit\Desktop)
+![schematic](schematic.png)
 
 To connect the components, follow these steps:
 
