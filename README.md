@@ -75,3 +75,10 @@ The documentation includes detailed code explanations and important functions fo
 By following the instructions provided, users can replicate the project and gain hands-on experience in building IoT applications. The project summary encourages further exploration and improvements in IoT applications, highlighting the possibilities for automation and remote control in various domains.
 
 With its educational value and practical implementation, the "Controlling a Lamp" project serves as a stepping stone for individuals looking to enhance their understanding of IoT and develop their skills in IoT-based projects.
+
+
+| Name | Student ID| Responsibility | Link of repository|
+| ----------- | ----------- | ----------- | ----------- |
+| Saba Mansoursafaeyan| 99149060 | Product Owner | [Link](https://github.com/sabamsafaeyan02) 
+| Maryan Hassani pour| 99149022 | Scrum Master | [Link](https://github.com/maryam402 ) 
+| Maryam Pourjafari| 99149014 | Dev Team | [Link](https://github.com/Maryampj) 
