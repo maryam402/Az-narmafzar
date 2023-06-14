@@ -1,4 +1,4 @@
-#IFTTT Code Explanation
+# IFTTT Code Explanation
 
 To control the lamp from a Telegram bot using Adafruit IO, you need to add a "config.h" file. This file contains two settings for connecting to your Adafruit IO account:
 1.IO_USERNAME: Set this to your Adafruit IO username.
